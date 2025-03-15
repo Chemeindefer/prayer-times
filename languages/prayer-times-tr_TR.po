@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prayer Times 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/Chemeindefer/prayer-times.git/issues\n"
+"POT-Creation-Date: 2024-03-15 12:00+0300\n"
+"PO-Revision-Date: 2024-03-15 12:00+0300\n"
+"Last-Translator: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language-Team: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Manual\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: prayer-times.php
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: prayer-times.php
+msgid "Prayer Times Settings"
+msgstr "Namaz Vakitleri Ayarları"
+
+#: prayer-times.php
+msgid "Prayer Times"
+msgstr "Namaz Vakitleri"
+
+#: prayer-times.php
+msgid "Plugin Info"
+msgstr "Eklenti Bilgisi"
+
+#: prayer-times.php
+msgid "Info"
+msgstr "Bilgi"
+
+#: prayer-times.php
+msgid "Please make a selection..."
+msgstr "Lütfen bir seçim yapın..."
+
+#: templates/widget.php
+msgid "No location selected"
+msgstr "Konum seçilmedi"
+
+#: templates/widget.php
+msgid "Prayer times could not be loaded"
+msgstr "Namaz vakitleri yüklenemedi"
+
+#: templates/widget.php
+msgid "Invalid data"
+msgstr "Geçersiz veri"
+
+#: templates/widget.php
+msgid "Fajr"
+msgstr "İmsak"
+
+#: templates/widget.php
+msgid "Sunrise"
+msgstr "Güneş"
+
+#: templates/widget.php
+msgid "Dhuhr"
+msgstr "Öğle"
+
+#: templates/widget.php
+msgid "Asr"
+msgstr "İkindi"
+
+#: templates/widget.php
+msgid "Maghrib"
+msgstr "Akşam"
+
+#: templates/widget.php
+msgid "Isha"
+msgstr "Yatsı"
+
+#: templates/widget.php
+msgid "Next prayer: %s (%s)"
+msgstr "Sıradaki vakit: %s (%s)"
+
+#: templates/widget.php
+msgid "Hours"
+msgstr "Saat"
+
+#: templates/widget.php
+msgid "Minutes"
+msgstr "Dakika"
+
+#: templates/widget.php
+msgid "Seconds"
+msgstr "Saniye"
+
+#: templates/table.php
+msgid "Prayer Times Table Heading"
+msgstr "Namaz Vakitleri"
+
+#: templates/table.php
+msgid "Date"
+msgstr "Tarih"
+
+#: templates/table.php
+msgid "No prayer times data available"
+msgstr "Namaz vakitleri verisi bulunamadı"
+
+#: templates/banner.php
+msgid "Today's prayer times not found"
+msgstr "Bugünün namaz vakitleri bulunamadı"
+
+#: templates/banner.php
+msgid "Time Remaining Until %s"
+msgstr "%s Vaktine Kalan Süre"
+
+#: includes/settings.php
+msgid "Select Country"
+msgstr "Ülke Seçin"
+
+#: includes/settings.php
+msgid "Select City"
+msgstr "Şehir Seçin"
+
+#: includes/settings.php
+msgid "Select District"
+msgstr "İlçe Seçin"
+
+#: includes/settings.php
+msgid "System Timezone: UTC%+d"
+msgstr "Sistem Saat Dilimi: UTC%+d"
+
+#: includes/settings.php
+msgid "Use Custom Timezone"
+msgstr "Özel Saat Dilimi Kullan"
+
+#: includes/settings.php
+msgid "Plugin Language"
+msgstr "Eklenti Dili"
+
+#: includes/info.php
+msgid "Prayer Times Plugin"
+msgstr "Namaz Vakitleri Eklentisi"
+
+#: includes/info.php
+msgid "Developer Information"
+msgstr "Geliştirici Bilgisi"
+
+#: includes/info.php
+msgid "Hello! I am Batuhan Delice. I am actually a Flutter developer, but due to some requests, I had to develop this plugin."
+msgstr "Merhaba! Ben Batuhan Delice. Aslında bir Flutter geliştiricisiyim."
+
+#: includes/info.php
+msgid "My Personal Website"
+msgstr "Kişisel Web Sitem"
+
+#: includes/info.php
+msgid "Contact Me"
+msgstr "Bana Ulaşın"
+
+#: includes/info.php
+msgid "Technical Features"
+msgstr "Teknik Özellikler"
+
+#: includes/info.php
+msgid "Plugin Version"
+msgstr "Eklenti Sürümü"
+
+#: includes/info.php
+msgid "WordPress Version"
+msgstr "WordPress Sürümü"
+
+#: includes/info.php
+msgid "PHP Version"
+msgstr "PHP Sürümü"
+
+#: includes/info.php
+msgid "Last Update"
+msgstr "Son Güncelleme"
+
+#: includes/info.php
+msgid "TimeZone"
+msgstr "Saat Dilimi"
+
+#: includes/info.php
+msgid "GitHub Repo"
+msgstr "GitHub Repo"
+
+#: includes/info.php
+msgid "View/Contribute"
+msgstr "Görüntüle/Katkıda Bulun"
+
+#: includes/info.php
+msgid "Cache Management"
+msgstr "Önbellek Yönetimi"
+
+#: includes/info.php
+msgid "The plugin has cached data for faster performance. You can clear this cache to fetch fresh data from the API."
+msgstr "Eklenti daha hızlı performans için önbelleğe alınmış verilere sahiptir. API'den yeni veriler almak için bu önbelleği temizleyebilirsiniz."
+
+#: includes/info.php
+msgid "No cached data found. The plugin will fetch data from the API as needed."
+msgstr "Önbelleğe alınmış veri bulunamadı. Eklenti, gerektiğinde API'den veri alacaktır."
+
+#: includes/info.php
+msgid "Clear Cache"
+msgstr "Önbelleği Temizle"
+
+#: includes/info.php
+msgid "Data Source"
+msgstr "Veri Kaynağı"
+
+#: includes/info.php
+msgid "The plugin retrieves prayer times data from the following open-source API:"
+msgstr "Eklenti, namaz vakitleri verilerini aşağıdaki açık kaynaklı API'den alır:"
+
+#: includes/info.php
+msgid "API: <a href=\"https://vakit.vercel.app\" target=\"_blank\">vakit.vercel.app</a>"
+msgstr "API: <a href=\"https://vakit.vercel.app\" target=\"_blank\">vakit.vercel.app</a>"
+
+#: includes/info.php
+msgid "API Developer: Yusuf Sait Canbaz"
+msgstr "API Geliştirici: Yusuf Sait Canbaz"
+
+#: includes/info.php
+msgid "Source Code: <a href=\"https://github.com/canbax/namaz-vakti-api\" target=\"_blank\">GitHub Repository</a>"
+msgstr "Kaynak Kodu: <a href=\"https://github.com/canbax/namaz-vakti-api\" target=\"_blank\">GitHub Repository</a>"
+
+#: includes/info.php
+msgid "If you notice any inconsistencies in the times or cannot access the data, please check the API status."
+msgstr "Eğer vakitlerde tutarsızlıklar fark ederseniz veya verilere erişemezseniz, lütfen API durumunu kontrol edin."
+
+#: includes/info.php
+msgid "Support Us"
+msgstr "Bize Destek Olun"
+
+#: includes/info.php
+msgid "[Plugin Developer]"
+msgstr "[Eklenti Geliştiricisi]"
+
+#: includes/info.php
+msgid "[API Developer]"
+msgstr "[API Geliştiricisi]"
+
+#: includes/info.php
+msgid "Your support ensures the continuity of open-source projects."
+msgstr "Desteğiniz açık kaynaklı projelerin sürekliliğini sağlar."
+
+#: includes/info.php
+msgid "Special Thanks"
+msgstr "Özel Teşekkürler"
+
+#: includes/info.php
+msgid "I extend my gratitude to Yusuf Sait Canbaz for his valuable contributions and for providing an open-source API. I am also grateful to all users who tested this plugin and provided feedback."
+msgstr "Değerli katkıları ve açık kaynaklı bir API sağladığı için Yusuf Sait Canbaz'a şükranlarımı sunuyorum. Ayrıca bu eklentiyi test eden ve geri bildirim sağlayan tüm kullanıcılara da teşekkür ederim."
+
+#: includes/info.php
+msgid "Available Shortcodes"
+msgstr "Kullanılabilir Kısa Kodlar"
+
+#: includes/info.php
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/info.php
+msgid "Table"
+msgstr "Tablo"
+
+#: includes/info.php
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/info.php
+msgid "Prayer Times Widget"
+msgstr "Namaz Vakitleri Widget'ı"
+
+#: includes/info.php
+msgid "Displays a beautiful widget showing current prayer times with countdown."
+msgstr "Geri sayım özelliğiyle mevcut namaz vakitlerini gösteren güzel bir widget görüntüler."
+
+#: includes/info.php
+msgid "You can use the menu below to test how the design will look for different prayer times."
+msgstr "Her vakit farklı bir renge sahiptir. Tasarımın nasıl görüneceğini test etmek için aşağıdaki menüyü kullanabilirsiniz."
+
+#: includes/info.php
+msgid "Fajr Time"
+msgstr "İmsak Vakti"
+
+#: includes/info.php
+msgid "Sunrise Time"
+msgstr "Güneş Vakti"
+
+#: includes/info.php
+msgid "Dhuhr Time"
+msgstr "Öğle Vakti"
+
+#: includes/info.php
+msgid "Asr Time"
+msgstr "İkindi Vakti"
+
+#: includes/info.php
+msgid "Maghrib Time"
+msgstr "Akşam Vakti"
+
+#: includes/info.php
+msgid "Isha Time"
+msgstr "Yatsı Vakti"
+
+#: includes/info.php
+msgid "Prayer Times Table"
+msgstr "Namaz Vakitleri Tablosu"
+
+#: includes/info.php
+msgid "Shows prayer times in a responsive table format with optional parameters."
+msgstr "Namaz vakitlerini opsiyonel parametrelerle duyarlı bir tablo formatında gösterir."
+
+#: includes/info.php
+msgid "Banner View"
+msgstr "Banner Görünümü"
+
+#: includes/info.php
+msgid "Displays prayer times in a banner format. Active prayer time is indicated with a red dot and includes a countdown timer."
+msgstr "Namaz vakitlerini banner şeklinde gösterir. Aktif vakit kırmızı nokta ile belirtilir ve geri sayım sayacı bulunur."
+
+#: includes/info.php
+msgid "Shortcode copied!"
+msgstr "Kısa kod kopyalandı!"
+
+#: includes/ajax-handler.php
+msgid "Invalid security token"
+msgstr "Geçersiz güvenlik belirteci"
+
+#: includes/ajax-handler.php
+msgid "Invalid country"
+msgstr "Geçersiz ülke"
+
+#: includes/ajax-handler.php
+msgid "Invalid input"
+msgstr "Geçersiz giriş"
+
+#: includes/ajax-handler.php
+msgid "Cache cleared successfully"
+msgstr "Önbellek başarıyla temizlendi"
+
+#: includes/fetcher.php
+msgid "Countries could not be loaded"
+msgstr "Ülkeler yüklenemedi"
+
+#: includes/fetcher.php
+msgid "Country not found"
+msgstr "Ülke bulunamadı"
+
+#: includes/fetcher.php
+msgid "Choose Country"
+msgstr "Ülke Seçin"
+
+#: includes/fetcher.php
+msgid "Cities could not be loaded"
+msgstr "Şehirler yüklenemedi"
+
+#: includes/fetcher.php
+msgid "City not found"
+msgstr "Şehir bulunamadı"
+
+#: includes/fetcher.php
+msgid "Choose City"
+msgstr "Şehir Seçin"
+
+#: includes/fetcher.php
+msgid "Invalid district"
+msgstr "Geçersiz ilçe"
+
+#: includes/fetcher.php
+msgid "Districts could not be loaded"
+msgstr "İlçeler yüklenemedi"
+
+#: includes/fetcher.php
+msgid "No district found"
+msgstr "İlçe bulunamadı"
+
+#: includes/fetcher.php
+msgid "Choose District"
+msgstr "İlçe Seçin"
+
+#: includes/fetcher.php
+msgid "API request failed with status code: %d"
+msgstr "API isteği başarısız oldu, durum kodu: %d"
+
+#: includes/info.php
+msgid "Prayer Times cache has been cleared successfully."
+msgstr "Namaz Vakitleri önbelleği başarıyla temizlendi."
+
+#: includes/info.php
+msgid "IBAN copied!"
+msgstr "IBAN kopyalandı!"
+
+#: includes/info.php
+msgid "Name copied!"
+msgstr "İsim kopyalandı!"
+
+#: includes/settings.php
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: includes/settings.php
+msgid "Welcome to Prayer Times"
+msgstr "Namaz Vakitleri Eklentisine Hoş Geldiniz"
+
+#: includes/settings.php
+msgid "This plugin is an open-source project, and the developer does not promise continuous updates or development. The data provided by the plugin is sourced from another open-source project."
+msgstr "Bu eklenti açık kaynaklı bir projedir ve geliştirici sürekli güncellemeler veya geliştirmeler vaat etmez. Eklenti tarafından sağlanan veriler başka bir açık kaynaklı projeden alınmaktadır."
+
+#: includes/settings.php
+msgid "How to Use the Plugin?"
+msgstr "Eklenti Nasıl Kullanılır?"
+
+#: includes/settings.php
+msgid "Before starting to use the plugin, please check the \"Info\" section in the plugin menu."
+msgstr "Eklentiyi kullanmaya başlamadan önce lütfen eklenti menüsündeki \"Bilgi\" bölümünü kontrol edin."
+
+#: includes/settings.php
+msgid "This plugin is added to your content using shortcodes. You can use the data you want to display in pages, posts, or widgets."
+msgstr "Bu eklenti içeriğinize kısa kodlar kullanılarak eklenir. Verileri sayfalar, yazılar veya bileşenlerde görüntüleyebilirsiniz."
+
+#: includes/settings.php
+msgid "Using Shortcodes"
+msgstr "Kısa Kodların Kullanımı"
+
+#: includes/settings.php
+msgid "Get the Shortcode:"
+msgstr "Kısa Kodu Alın:"
+
+#: includes/settings.php
+msgid "Go to the \"Info\" section in the plugin menu."
+msgstr "Eklenti menüsündeki \"Bilgi\" bölümüne gidin."
+
+#: includes/settings.php
+msgid "Here you can see the shortcode you can use and the necessary parameters."
+msgstr "Burada kullanabileceğiniz kısa kodu ve gerekli parametreleri görebilirsiniz."
+
+#: includes/settings.php
+msgid "Don't Forget to Configure Settings!"
+msgstr "Ayarları Yapılandırmayı Unutmayın!"
+
+#: includes/settings.php
+msgid "To use the plugin efficiently, don't forget to configure the city and timezone settings in the \"Settings\" section for the shortcode you obtained from the \"Info\" section."
+msgstr "Eklentiyi verimli bir şekilde kullanmak için, \"Bilgi\" bölümünden aldığınız kısa kod için \"Ayarlar\" bölümünde şehir ve saat dilimi ayarlarını yapılandırmayı unutmayın."
+
+#: includes/settings.php
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/settings.php
+msgid "Go to Info Page"
+msgstr "Bilgi Sayfasına Git"
+
+#: includes/settings.php
+msgid "Show Attribution Link"
+msgstr "Atıf Bağlantısını Göster"
+
+#: includes/settings.php
+msgid "Display \"Powered by Batuhan Delice\" attribution link in prayer time displays."
+msgstr "Namaz vakitleri görünümlerinde \"Powered by Batuhan Delice\" atıf bağlantısını göster."
+
+#: prayer-times.php
+msgid "Displays Prayer prayer times using Namaz Vakti API. Includes widget and table shortcode functionality."
+msgstr "Namaz Vakti API'sini kullanarak Namaz namaz vakitlerini gösterir. Widget ve tablo kısa kod işlevselliğini içerir."
+
+#: prayer-times.php
+msgid "A comprehensive WordPress plugin that displays accurate Islamic prayer times during Prayer using the reliable Namaz Vakti API. Features include customizable widgets, responsive prayer time tables, and elegant banner displays with countdown timers. Easily integrate prayer schedules into any WordPress site using simple shortcodes with multiple display options. Perfect for mosques, Islamic centers, and personal sites wanting to share accurate prayer times."
+msgstr "Güvenilir Namaz Vakti API'sini kullanarak Namaz ayında doğru İslami namaz vakitlerini gösteren kapsamlı bir WordPress eklentisidir. Özellikler arasında özelleştirilebilir widget'lar, responsive namaz vakti tabloları ve geri sayım sayaçlı şık banner gösterimleri bulunur. Basit kısa kodlar kullanarak namaz programlarını birden fazla görüntüleme seçeneğiyle herhangi bir WordPress sitesine kolayca entegre edin. Camiler, İslami merkezler ve doğru namaz vakitlerini paylaşmak isteyen kişisel siteler için mükemmel bir çözüm."
+
+#: includes/settings.php
+msgid "Prayer Times: Attribution link settings updated and cache cleared successfully."
+msgstr "Namaz Vakitleri: Atıf bağlantısı ayarları güncellendi ve önbellek başarıyla temizlendi."
+
+#: includes/settings.php
+msgid "Prayer Times: Settings updated and cache cleared successfully."
+msgstr "Namaz Vakitleri: Ayarlar güncellendi ve önbellek başarıyla temizlendi." 

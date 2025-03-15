@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prayer Times 1.0.0\n"
+"POT-Creation-Date: 2023-08-01 10:00+0300\n"
+"PO-Revision-Date: 2023-08-01 10:00+0300\n"
+"Last-Translator: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language-Team: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Manual\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: prayer-times.php
+msgid "Prayer Times Settings"
+msgstr "Prayer Times Settings"
+
+#: prayer-times.php
+msgid "Prayer Times"
+msgstr "Prayer Times"
+
+#: prayer-times.php
+msgid "Plugin Info"
+msgstr "Plugin Info"
+
+#: prayer-times.php
+msgid "Info"
+msgstr "Info"
+
+#: prayer-times.php
+msgid "Please make a selection..."
+msgstr "Please make a selection..."
+
+#: templates/widget.php
+msgid "No location selected"
+msgstr "No location selected"
+
+#: templates/widget.php
+msgid "Prayer times could not be loaded"
+msgstr "Prayer times could not be loaded"
+
+#: templates/widget.php
+msgid "Invalid data"
+msgstr "Invalid data"
+
+#: templates/widget.php
+msgid "Fajr"
+msgstr "Fajr"
+
+#: templates/widget.php
+msgid "Sunrise"
+msgstr "Sunrise"
+
+#: templates/widget.php
+msgid "Dhuhr"
+msgstr "Dhuhr"
+
+#: templates/widget.php
+msgid "Asr"
+msgstr "Asr"
+
+#: templates/widget.php
+msgid "Maghrib"
+msgstr "Maghrib"
+
+#: templates/widget.php
+msgid "Isha"
+msgstr "Isha"
+
+#: templates/widget.php
+msgid "Next prayer: %s (%s)"
+msgstr "Next prayer: %s (%s)"
+
+#: templates/widget.php
+msgid "Hours"
+msgstr "Hours"
+
+#: templates/widget.php
+msgid "Minutes"
+msgstr "Minutes"
+
+#: templates/widget.php
+msgid "Seconds"
+msgstr "Seconds"
+
+#: templates/table.php
+msgid "Prayer Times Table Heading"
+msgstr "Prayer Times"
+
+#: templates/table.php
+msgid "Date"
+msgstr "Date"
+
+#: templates/table.php
+msgid "No prayer times data available"
+msgstr "No prayer times data available"
+
+#: templates/banner.php
+msgid "Today's prayer times not found"
+msgstr "Today's prayer times not found"
+
+#: templates/banner.php
+msgid "Time Remaining Until %s"
+msgstr "Time Remaining Until %s"
+
+#: includes/settings.php
+msgid "Select Country"
+msgstr "Select Country"
+
+#: includes/settings.php
+msgid "Select City"
+msgstr "Select City"
+
+#: includes/settings.php
+msgid "Select District"
+msgstr "Select District"
+
+#: includes/settings.php
+msgid "System Timezone: UTC%+d"
+msgstr "System Timezone: UTC%+d"
+
+#: includes/settings.php
+msgid "Use Custom Timezone"
+msgstr "Use Custom Timezone"
+
+#: includes/info.php
+msgid "Prayer Times Plugin"
+msgstr "Prayer Times Plugin"
+
+#: includes/info.php
+msgid "Developer Information"
+msgstr "Developer Information"
+
+#: includes/info.php
+msgid "Hello! I am Batuhan Delice. I am actually a Flutter developer, but due to some requests, I had to develop this plugin."
+msgstr "Hello! I am Batuhan Delice. I am actually a Flutter developer, but due to some requests, I had to develop this plugin."
+
+#: includes/info.php
+msgid "My Personal Website"
+msgstr "My Personal Website"
+
+#: includes/info.php
+msgid "Contact Me"
+msgstr "Contact Me"
+
+#: includes/info.php
+msgid "Technical Features"
+msgstr "Technical Features"
+
+#: includes/info.php
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: includes/info.php
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: includes/info.php
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: includes/info.php
+msgid "Last Update"
+msgstr "Last Update"
+
+#: includes/info.php
+msgid "TimeZone"
+msgstr "TimeZone"
+
+#: includes/info.php
+msgid "GitHub Repo"
+msgstr "GitHub Repo"
+
+#: includes/info.php
+msgid "View/Contribute"
+msgstr "View/Contribute"
+
+#: includes/info.php
+msgid "Cache Management"
+msgstr "Cache Management"
+
+#: includes/info.php
+msgid "The plugin has cached data for faster performance. You can clear this cache to fetch fresh data from the API."
+msgstr "The plugin has cached data for faster performance. You can clear this cache to fetch fresh data from the API."
+
+#: includes/info.php
+msgid "No cached data found. The plugin will fetch data from the API as needed."
+msgstr "No cached data found. The plugin will fetch data from the API as needed."
+
+#: includes/info.php
+msgid "Clear Cache"
+msgstr "Clear Cache"
+
+#: includes/info.php
+msgid "Data Source"
+msgstr "Data Source"
+
+#: includes/info.php
+msgid "The plugin retrieves prayer times data from the following open-source API:"
+msgstr "The plugin retrieves prayer times data from the following open-source API:"
+
+#: includes/info.php
+msgid "API: <a href=\"https://vakit.vercel.app\" target=\"_blank\">vakit.vercel.app</a>"
+msgstr "API: <a href=\"https://vakit.vercel.app\" target=\"_blank\">vakit.vercel.app</a>"
+
+#: includes/info.php
+msgid "API Developer: Yusuf Sait Canbaz"
+msgstr "API Developer: Yusuf Sait Canbaz"
+
+#: includes/info.php
+msgid "Source Code: <a href=\"https://github.com/canbax/namaz-vakti-api\" target=\"_blank\">GitHub Repository</a>"
+msgstr "Source Code: <a href=\"https://github.com/canbax/namaz-vakti-api\" target=\"_blank\">GitHub Repository</a>"
+
+#: includes/info.php
+msgid "If you notice any inconsistencies in the times or cannot access the data, please check the API status."
+msgstr "If you notice any inconsistencies in the times or cannot access the data, please check the API status."
+
+#: includes/info.php
+msgid "Support Us"
+msgstr "Support Us"
+
+#: includes/info.php
+msgid "[Plugin Developer]"
+msgstr "[Plugin Developer]"
+
+#: includes/info.php
+msgid "[API Developer]"
+msgstr "[API Developer]"
+
+#: includes/info.php
+msgid "Your support ensures the continuity of open-source projects."
+msgstr "Your support ensures the continuity of open-source projects."
+
+#: includes/info.php
+msgid "Special Thanks"
+msgstr "Special Thanks"
+
+#: includes/info.php
+msgid "I extend my gratitude to Yusuf Sait Canbaz for his valuable contributions and for providing an open-source API. I am also grateful to all users who tested this plugin and provided feedback."
+msgstr "I extend my gratitude to Yusuf Sait Canbaz for his valuable contributions and for providing an open-source API. I am also grateful to all users who tested this plugin and provided feedback."
+
+#: includes/info.php
+msgid "Available Shortcodes"
+msgstr "Available Shortcodes"
+
+#: includes/info.php
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/info.php
+msgid "Table"
+msgstr "Table"
+
+#: includes/info.php
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/info.php
+msgid "Prayer Times Widget"
+msgstr "Prayer Times Widget"
+
+#: includes/info.php
+msgid "Displays a beautiful widget showing current prayer times with countdown."
+msgstr "Displays a beautiful widget showing current prayer times with countdown."
+
+#: includes/info.php
+msgid "You can use the menu below to test how the design will look for different prayer times."
+msgstr "You can use the menu below to test how the design will look for different prayer times."
+
+#: includes/info.php
+msgid "Fajr Time"
+msgstr "Fajr Time"
+
+#: includes/info.php
+msgid "Sunrise Time"
+msgstr "Sunrise Time"
+
+#: includes/info.php
+msgid "Dhuhr Time"
+msgstr "Dhuhr Time"
+
+#: includes/info.php
+msgid "Asr Time"
+msgstr "Asr Time"
+
+#: includes/info.php
+msgid "Maghrib Time"
+msgstr "Maghrib Time"
+
+#: includes/info.php
+msgid "Isha Time"
+msgstr "Isha Time"
+
+#: includes/info.php
+msgid "Prayer Times Table"
+msgstr "Prayer Times Table"
+
+#: includes/info.php
+msgid "Shows prayer times in a responsive table format with optional parameters."
+msgstr "Shows prayer times in a responsive table format with optional parameters."
+
+#: includes/info.php
+msgid "Banner View"
+msgstr "Banner View"
+
+#: includes/info.php
+msgid "Displays prayer times in a banner format. Active prayer time is indicated with a red dot and includes a countdown timer."
+msgstr "Displays prayer times in a banner format. Active prayer time is indicated with a red dot and includes a countdown timer."
+
+#: includes/info.php
+msgid "Shortcode copied!"
+msgstr "Shortcode copied!"
+
+#: includes/ajax-handler.php
+msgid "Invalid security token"
+msgstr "Invalid security token"
+
+#: includes/ajax-handler.php
+msgid "Invalid country"
+msgstr "Invalid country"
+
+#: includes/ajax-handler.php
+msgid "Invalid input"
+msgstr "Invalid input"
+
+#: includes/ajax-handler.php
+msgid "Cache cleared successfully"
+msgstr "Cache cleared successfully"
+
+#: includes/fetcher.php
+msgid "Countries could not be loaded"
+msgstr "Countries could not be loaded"
+
+#: includes/fetcher.php
+msgid "Country not found"
+msgstr "Country not found"
+
+#: includes/fetcher.php
+msgid "Choose Country"
+msgstr "Choose Country"
+
+#: includes/fetcher.php
+msgid "Cities could not be loaded"
+msgstr "Cities could not be loaded"
+
+#: includes/fetcher.php
+msgid "City not found"
+msgstr "City not found"
+
+#: includes/fetcher.php
+msgid "Choose City"
+msgstr "Choose City"
+
+#: includes/fetcher.php
+msgid "Invalid district"
+msgstr "Invalid district"
+
+#: includes/fetcher.php
+msgid "Districts could not be loaded"
+msgstr "Districts could not be loaded"
+
+#: includes/fetcher.php
+msgid "No district found"
+msgstr "No district found"
+
+#: includes/fetcher.php
+msgid "Choose District"
+msgstr "Choose District"
+
+#: includes/fetcher.php
+msgid "API request failed with status code: %d"
+msgstr "API request failed with status code: %d"
+
+#: includes/settings.php
+msgid "Prayer Times: Attribution link settings updated and cache cleared successfully."
+msgstr "Prayer Times: Attribution link settings updated and cache cleared successfully."
+
+#: includes/settings.php
+msgid "Prayer Times: Settings updated and cache cleared successfully."
+msgstr "Prayer Times: Settings updated and cache cleared successfully." 

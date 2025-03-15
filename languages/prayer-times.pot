@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prayer Times 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/Chemeindefer/prayer-times.git/issues\n"
+"POT-Creation-Date: 2024-03-15 12:00+0300\n"
+"PO-Revision-Date: 2024-03-15 12:00+0300\n"
+"Last-Translator: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language-Team: Batuhan Delice <developer@batuhandelice.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Manual\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/settings.php
+msgid "Plugin Language"
+msgstr ""
+
+#: includes/settings.php
+msgid "Prayer Times Settings"
+msgstr ""
+
+#: includes/settings.php
+msgid "Select Country"
+msgstr ""
+
+#: includes/settings.php
+msgid "Select City"
+msgstr ""
+
+#: includes/settings.php
+msgid "Select District"
+msgstr ""
+
+#: includes/settings.php
+msgid "System Timezone: UTC%+d"
+msgstr ""
+
+#: includes/settings.php
+msgid "Use Custom Timezone"
+msgstr ""
+
+#: includes/settings.php
+msgid "Show Attribution Link"
+msgstr ""
+
+#: includes/settings.php
+msgid "Display \"Powered by Batuhan Delice\" attribution link in prayer time displays."
+msgstr ""
+
+#: templates/widget.php
+msgid "No location selected"
+msgstr ""
+
+#: templates/widget.php
+msgid "Prayer times could not be loaded"
+msgstr ""
+
+#: templates/widget.php
+msgid "Invalid data"
+msgstr ""
+
+#: templates/widget.php
+msgid "Fajr"
+msgstr ""
+
+#: templates/widget.php
+msgid "Sunrise"
+msgstr ""
+
+#: templates/widget.php
+msgid "Dhuhr"
+msgstr ""
+
+#: templates/widget.php
+msgid "Asr"
+msgstr ""
+
+#: templates/widget.php
+msgid "Maghrib"
+msgstr ""
+
+#: templates/widget.php
+msgid "Isha"
+msgstr ""
+
+#: templates/widget.php
+msgid "Next prayer: %s (%s)"
+msgstr ""
+
+#: templates/widget.php
+msgid "Hours"
+msgstr ""
+
+#: templates/widget.php
+msgid "Minutes"
+msgstr ""
+
+#: templates/widget.php
+msgid "Seconds"
+msgstr ""
+
+#: templates/table.php
+msgid "Prayer Times"
+msgstr ""
+
+#: templates/table.php
+msgid "Date"
+msgstr ""
+
+#: templates/table.php
+msgid "No prayer times data available"
+msgstr ""
+
+#: templates/banner.php
+msgid "Today's prayer times not found"
+msgstr ""
+
+#: templates/banner.php
+msgid "Time Remaining Until %s"
+msgstr ""
+
+#: includes/info.php
+msgid "Prayer Times Plugin"
+msgstr ""
+
+#: includes/info.php
+msgid "Developer Information"
+msgstr ""
+
+#: includes/info.php
+msgid "Hello! I am Batuhan Delice. I am actually a Flutter developer, but due to some requests, I had to develop this plugin."
+msgstr ""
+
+#: includes/info.php
+msgid "My Personal Website"
+msgstr ""
+
+#: includes/info.php
+msgid "Contact Me"
+msgstr ""
+
+#: includes/info.php
+msgid "Technical Features"
+msgstr ""
+
+#: includes/info.php
+msgid "Plugin Version"
+msgstr ""
+
+#: includes/info.php
+msgid "WordPress Version"
+msgstr ""
+
+#: includes/info.php
+msgid "PHP Version"
+msgstr ""
+
+#: includes/info.php
+msgid "Last Update"
+msgstr ""
+
+#: includes/info.php
+msgid "TimeZone"
+msgstr ""
+
+#: includes/info.php
+msgid "GitHub Repo"
+msgstr ""
+
+#: includes/info.php
+msgid "View/Contribute"
+msgstr ""
+
+#: includes/info.php
+msgid "Cache Management"
+msgstr ""
+
+#: includes/info.php
+msgid "The plugin has cached data for faster performance. You can clear this cache to fetch fresh data from the API."
+msgstr ""
+
+#: includes/info.php
+msgid "No cached data found. The plugin will fetch data from the API as needed."
+msgstr ""
+
+#: includes/info.php
+msgid "Clear Cache"
+msgstr ""
+
+#: includes/info.php
+msgid "Data Source"
+msgstr ""
+
+#: includes/info.php
+msgid "The plugin retrieves prayer times data from the following open-source API:"
+msgstr ""
+
+#: includes/info.php
+msgid "API: <a href=\"https://vakit.vercel.app\" target=\"_blank\">vakit.vercel.app</a>"
+msgstr ""
+
+#: includes/info.php
+msgid "API Developer: Yusuf Sait Canbaz"
+msgstr ""
+
+#: includes/info.php
+msgid "Source Code: <a href=\"https://github.com/canbax/namaz-vakti-api\" target=\"_blank\">GitHub Repository</a>"
+msgstr ""
+
+#: includes/info.php
+msgid "If you notice any inconsistencies in the times or cannot access the data, please check the API status."
+msgstr ""
+
+#: includes/info.php
+msgid "Support Us"
+msgstr ""
+
+#: includes/info.php
+msgid "[Plugin Developer]"
+msgstr ""
+
+#: includes/info.php
+msgid "[API Developer]"
+msgstr ""
+
+#: includes/info.php
+msgid "Your support ensures the continuity of open-source projects."
+msgstr ""
+
+#: includes/info.php
+msgid "Special Thanks"
+msgstr ""
+
+#: includes/info.php
+msgid "I extend my gratitude to Yusuf Sait Canbaz for his valuable contributions and for providing an open-source API. I am also grateful to all users who tested this plugin and provided feedback."
+msgstr ""
+
+#: includes/info.php
+msgid "Available Shortcodes"
+msgstr ""
+
+#: includes/info.php
+msgid "Widget"
+msgstr ""
+
+#: includes/info.php
+msgid "Table"
+msgstr ""
+
+#: includes/info.php
+msgid "Banner"
+msgstr ""
+
+#: includes/info.php
+msgid "Prayer Times Widget"
+msgstr ""
+
+#: includes/info.php
+msgid "Displays a beautiful widget showing current prayer times with countdown."
+msgstr ""
+
+#: includes/info.php
+msgid "You can use the menu below to test how the design will look for different prayer times."
+msgstr ""
+
+#: includes/info.php
+msgid "Fajr Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Sunrise Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Dhuhr Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Asr Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Maghrib Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Isha Time"
+msgstr ""
+
+#: includes/info.php
+msgid "Prayer Times Table"
+msgstr ""
+
+#: includes/info.php
+msgid "Shows prayer times in a responsive table format with optional parameters."
+msgstr ""
+
+#: includes/info.php
+msgid "Banner View"
+msgstr ""
+
+#: includes/info.php
+msgid "Displays prayer times in a banner format. Active prayer time is indicated with a red dot and includes a countdown timer."
+msgstr ""
+
+#: includes/info.php
+msgid "Shortcode copied!"
+msgstr ""
+
+#: includes/ajax-handler.php
+msgid "Invalid security token"
+msgstr ""
+
+#: includes/ajax-handler.php
+msgid "Invalid country"
+msgstr ""
+
+#: includes/ajax-handler.php
+msgid "Invalid input"
+msgstr ""
+
+#: includes/ajax-handler.php
+msgid "Cache cleared successfully"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Countries could not be loaded"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Country not found"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Choose Country"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Cities could not be loaded"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "City not found"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Choose City"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Invalid district"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Districts could not be loaded"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "No district found"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "Choose District"
+msgstr ""
+
+#: includes/fetcher.php
+msgid "API request failed with status code: %d"
+msgstr ""
+
+#: prayer-times.php
+msgid "Displays Prayer prayer times using Namaz Vakti API. Includes widget and table shortcode functionality."
+msgstr ""
+
+#: prayer-times.php
+msgid "A comprehensive WordPress plugin that displays accurate Islamic prayer times during Prayer using the reliable Namaz Vakti API. Features include customizable widgets, responsive prayer time tables, and elegant banner displays with countdown timers. Easily integrate prayer schedules into any WordPress site using simple shortcodes with multiple display options. Perfect for mosques, Islamic centers, and personal sites wanting to share accurate prayer times."
+msgstr "" 
