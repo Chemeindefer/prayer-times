@@ -108,7 +108,7 @@ class PrayerSettings {
         ?>
         <div class="wrap prayer-settings-wrapper">
             <div class="prayer-settings-header">
-                <img src="<?php echo esc_url(PRAYER_PLUGIN_URL . 'assets/plugin-promo.png'); ?>" 
+                <img src="<?php echo esc_url(PRAYER_PLUGIN_URL . 'admin/images/plugin-promo.png'); ?>" 
                      alt="Prayer Times" 
                      class="prayer-settings-image">
             </div>
